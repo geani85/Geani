@@ -10,7 +10,7 @@ API Documentation: link to API documentation if exists or N/A
 
 The final project will be split into 2 section: Testing section and SQL section
 
-Tools used:
+Tools used: Jira, Mozilla Firefox
 
 Functional specifications
 
@@ -28,6 +28,8 @@ The plan identifies the items to be tested, the features to be tested, the types
 
     Tests in scope:
     Tests not in scope:
+  
+
 
 1.1.5 Risks detected:
 
@@ -44,7 +46,9 @@ It will be done by generating periodic reports that reflect the current status o
 
 The testing process will be executed based on the above requirements for the module under test name. The following test conditions were found:
 
-    Enter test conditions here
+    As an user i want to be able to create an username and password.
+    As an user i want to be able to login.
+    As an user i want to be able to search products in the search bar.
 
 1.4 Test Design
 
