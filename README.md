@@ -10,7 +10,7 @@ API Documentation: link to API documentation if exists or N/A
 
 The final project will be split into 2 section: Testing section and SQL section
 
-Tools used: Jira, Mozilla Firefox
+Tools used: Jira,Zephyr Squad,Mozilla Firefox
 
 Functional specifications
 
@@ -46,15 +46,17 @@ It will be done by generating periodic reports that reflect the current status o
 
 The testing process will be executed based on the above requirements for the module under test name. The following test conditions were found:
 
-    As an user i want to be able to create an username and password.
+    As an user i want to be able to register.
     As an user i want to be able to login.
-    As an user i want to be able to search products in the search bar.
+    As an user i want to be able to search products.
 
 1.4 Test Design
 
 Functional test cases were created in Zephyr Squad. Based on the analysis of the specifications, the test design techniques used for generating test cases are:
 
-Test cases: -> enter here test cases or at least the titles The test cases with steps can be viewed here: test_cases.pdf
+Test cases: [test cases.pdf](https://github.com/geani85/Geani/files/12023957/test.cases.pdf)
+
+The test cases with steps can be viewed here: test_cases.pdf
 
 1.5 Test Implementation
 
