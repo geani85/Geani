@@ -54,8 +54,6 @@ The testing process will be executed based on the above requirements for the mod
 
 Functional test cases were created in Zephyr Squad. Based on the analysis of the specifications, the test design techniques used for generating test cases are:
 
-Test cases: [test cases.pdf](https://github.com/geani85/Geani/files/12023957/test.cases.pdf)
-
 The test cases with steps can be viewed here: test_cases.pdf
 
 1.5 Test Implementation
